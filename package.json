@@ -1,0 +1,58 @@
+{
+  "name": "rd-kafka",
+  "version": "1.0.0",
+  "description": "rd kafka messaging system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Swarndeep kumar"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-env": "^0.4.4",
+    "grunt-istanbul": "^0.8.0",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^3.4.2",
+    "node-rdkafka": "^0.10.2",
+    "request": "^2.81.0",
+    "should": "^11.2.1",
+    "sinon": "^2.3.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-env": "^0.4.4",
+    "grunt-istanbul": "^0.7.2",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^3.4.2"
+  },
+  "gitHead": "911ccd590ce99522d312b22469f0ae25aee7e59e",
+  "_id": "rd-kafka@1.0.0",
+  "_shasum": "4c66ce375fb071d633f0561d1df9f4ade2655e87",
+  "_from": "rd-kafka@*",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.6.0",
+  "_npmUser": {
+    "name": "swarndeep",
+    "email": "swarndeep.kumar@gmail.com"
+  },
+  "dist": {
+    "shasum": "4c66ce375fb071d633f0561d1df9f4ade2655e87",
+    "tarball": "https://registry.npmjs.org/rd-kafka/-/rd-kafka-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "swarndeep",
+      "email": "swarndeep.kumar@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/rd-kafka-1.0.0.tgz_1496399252764_0.351926704403013"
+  },
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/rd-kafka/-/rd-kafka-1.0.0.tgz"
+}
